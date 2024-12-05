@@ -85,13 +85,13 @@ console.log(typeof(str2));
 // console.log(account.getbalance());
 
 
-//converting to string 
+converting to string 
 
-//string()
-// console.log(String("123"));
+string()
+console.log(String("123"));
 
-// //.tostring()
-// console.log((true).toString());
+//.tostring()
+console.log((true).toString());
 
 //concatenation
 // console.log(true+"is Boolean");
