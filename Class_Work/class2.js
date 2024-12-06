@@ -94,7 +94,7 @@ console.log(String("123"));
 console.log((true).toString());
 
 //concatenation
-console.log(true+"is Boolean");
+// console.log(true+"is Boolean");
 
 // //converting to number
 // console.log(parseInt("123abc"));
