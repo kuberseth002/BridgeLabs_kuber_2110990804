@@ -45,5 +45,35 @@ console.log(fact(5));
 
 
 
+//promises
+// let firstpromise=new Promise((resolve,reject)=>{
+//   setTimeout(function saymyname(){
+//     console.log("my name is kuber");
+//   },15000)
+//   console.log(resolve(1));
+   
+// })
+
+
+
+let promise = new Promise((resolve,reject)=>{
+  let success=true;
+  if(success){
+    resolve(10)
+  }else{
+    reject(-1)
+  }
+})
+promise.then((message)=>{
+  console.log("first msg:"+message);
+  return 20
+}).then((message)=>{
+  console.log("second message:"+message);
+  return 30
+}).then((message)=>{
+  console.log("third message:"+message);
+  
+})
+
 
 
