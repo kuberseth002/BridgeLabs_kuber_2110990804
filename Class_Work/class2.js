@@ -85,7 +85,7 @@ console.log(typeof(str2));
 // console.log(account.getbalance());
 
 
-converting to string 
+// converting to string 
 
 string()
 console.log(String("123"));
