@@ -85,7 +85,7 @@ console.log(typeof(str2));
 // console.log(account.getbalance());
 
 
-converting to string 
+// converting to string 
 
 string()
 console.log(String("123"));
@@ -94,7 +94,7 @@ console.log(String("123"));
 console.log((true).toString());
 
 //concatenation
-// console.log(true+"is Boolean");
+console.log(true+"is Boolean");
 
 // //converting to number
 // console.log(parseInt("123abc"));
