@@ -39,4 +39,34 @@ console.log(passfail("Arnav"));
 console.log("Total number of students who passed",countpassingstudent());
 
 
+// let arr=[1,2,3,4]
+// arr.forEach((item,index) => {
+//   console.log(item,index);
+
+//   // arr.map((arr)=>{
+//   //   console.log(arr);
+    
+//   // })
+
+
+
+//   let string=["kuber","seth","123"]
+//   let arr=string.map((i)=>i+2)
+//   console.log(arr);
+  
+
+//   let arr=string.filter((i)=>i.charAt(0)=='k')
+//   console.log(arr);
+
+
+// const obj={
+  //   name:"kuebr",
+  //   age:25
+  // }
+
+  // console.log(obj);
+
+
+
+
 
