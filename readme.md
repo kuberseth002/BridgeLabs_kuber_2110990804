@@ -1,4 +1,4 @@
-3/12/24
+11/12/24
 1. Print numbers from 1 to 10
 2. Print the odd numbers less than 100
 3. Print the multiplication table with 7
