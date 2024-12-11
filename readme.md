@@ -6,6 +6,7 @@
 5. Calculate the sum of numbers from 1 to 10
 6. Calculate 10!
 7. Calculate the sum of even numbers greater than 10 and less than 30
-13. Find the maximum number in an array of numbers
 11. Calculate the average of the numbers in an array of numbers
+13. Find the maximum number in an array of numbers
+
 
