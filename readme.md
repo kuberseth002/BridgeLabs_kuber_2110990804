@@ -16,5 +16,9 @@
 16. Create a function that will return a Boolean specifying if a number is prime
 17. Calculate the sum of digits of a positive integer number
 18. Print the first 100 prime numbers
+19. Create a function that will return in an array the first “p” prime numbers greater than “n”
+20. Rotate an array to the left 1 position
+21. Rotate an array to the right 1 position
 22. Reverse an array
 23. Reverse a string
+24. Create a function that will merge two arrays and return the result as a new array
