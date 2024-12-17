@@ -169,3 +169,5 @@ console.log(new_arr);
 //indexof: find the index of array
 let strings=['kuber','seth','hr']
 console.log(strings.indexOf('hr'));
+
+c
