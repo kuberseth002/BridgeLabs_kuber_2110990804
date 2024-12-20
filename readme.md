@@ -1,1 +1,1 @@
-different methods practice of array
+stacks practice
