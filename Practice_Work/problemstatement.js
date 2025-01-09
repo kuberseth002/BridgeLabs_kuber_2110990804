@@ -1,5 +1,4 @@
 //questions on classes
-
 // Q1.retail store need to manage customer information
 
 class Customer{
