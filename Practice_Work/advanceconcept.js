@@ -155,6 +155,53 @@ console.log(user?.contact?.phone);
 6.arrow function:-doesnot have this inherit from lexical scope
 */
 
+//constructor :a special function in classes used  to initialize and object properties automatically called when new instance of a class is created
+//parameterized constructor
+class Dog{
+  constructor(name){
+    this.name=name
+  }
+}
+const mydog=new dog("buddy")
+console.log(mydog.name);
+
+
+
+//hoisting:-it is a mechanism where variable declaration and function declaration are moved to top of their scope before code execution
+//only the declaration are hoisted not the initialzation
+
+
+//function hoisting
+
+greet()
+function greet(){
+  console.log("Hello world");
+}
+
+//variable hoisting variable are declared with var are hoisted but there intial is not
+//let and const are also hoisted but they are in temporal dead zone untill the code reaches the destination
+console.log(x);// undefined
+var x=5;
+console.log(x); //5
+
+
+//let and const
+console.log(y); // it can not be accessed before its declaration due to the tdz
+let y=10;
+
+
+//class hoisting: class in js not hoisted must declare before using it
+
+const obj = new Myclass()
+class Myclass{
+  constructor() {
+    this.name="Test";
+  }
+}
+
+
+
+
 
 
 
