@@ -38,9 +38,9 @@ if(roles.includes(user.role)){   //not touching the code adding new functionalit
 }
 
 //adding new role without changing the above code and fucntionality
-addRole(roles){
-  roles.push(roles)
-}
+// addRole(roles){
+//   roles.push(roles)
+// }
 
 addRole("SuperUser")
 
