@@ -1,10 +1,9 @@
-// // classes:-eg of house--->blueprint of house by following that plan we created a house called  object and plan is the blue print
-// // actual thing is called object class is called blueprint 
+ // classes:-eg of house--->blueprint of house by following that plan we created a house called  object and plan is the blue print
+ // actual thing is called object class is called blueprint 
 
+ //create a class
 
-// //create a class
-
-class human{
+  class human{
   //properties
 
   age=25;  //deafult public 
@@ -18,10 +17,6 @@ class human{
     this.age=newAge;
     this.ht=newHeight
     this.#wt=newweight;
-
-
-
-
   }
 
 
@@ -50,7 +45,7 @@ class human{
   }
 }
 let obj = new human(50,190,101)
-console.log(obj.fetchweight);
+console.log(obj.wt);
 
 obj.walking();
 obj.running();
@@ -88,9 +83,6 @@ solve1()
 
 
 //default in fucntion 
-
-
-
 
 function getage(){
   return 190;
