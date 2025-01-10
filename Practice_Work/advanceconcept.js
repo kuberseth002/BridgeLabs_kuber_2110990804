@@ -1,7 +1,6 @@
 //class:it is a bueprint for creating objects it encapsulate data and behaviour
 //feture: constructor method: intialize object property , methods:function inside a class, inheritance: inherit properties from another class
 
-
 class Animal{
   constructor(name,sound){
     this.name=name;
