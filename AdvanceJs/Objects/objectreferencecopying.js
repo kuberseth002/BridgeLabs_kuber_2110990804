@@ -25,7 +25,7 @@ console.log(original.name);
 console.log(original.details.age);//nested obj is shared
 
 
-//deep copy
+//deep copy:-creates completelt independent copy 
 
 const obj={name:"john",details:{age:30}}
 const deepcopy=JSON.parse(JSON.stringify(obj))
