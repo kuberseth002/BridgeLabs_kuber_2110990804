@@ -30,6 +30,7 @@ class human{
     
   }
 
+
   //geters and setters:to use private class outside the class-->data production  provide hoskke 
   // getters used to access function -->encapsulation setup and increase in code hogi h and and abstraction layer
   get fetchweight(){
