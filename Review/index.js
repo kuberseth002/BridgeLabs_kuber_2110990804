@@ -27,3 +27,15 @@ function palindrome(str){
 }
 
 palindrome("Racecar")
+
+
+
+
+let obj1={
+  name:"kuber"
+}
+function abcd(lastname){
+  console.log(this.name+" "+lastname);
+}
+console.log(this.name);
+abcd.call(obj1,"seth")

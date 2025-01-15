@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Date:02/12/2024 (Monday)
 
 Topics Covered: 1.Basic Programming Constructs 2.Arrays -forEach,map,filter,reduce 3.Arrow Functions 4.Practice Questions
@@ -173,3 +174,6 @@ Promises
 Promises Chaining
 Promises API
 Error Handling with Promises
+=======
+17/12/24
+>>>>>>> Review
